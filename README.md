@@ -1,6 +1,8 @@
-# Build-an-End-to-End-System---Evaluation
+
 
 # AI-Powered Customer Service Chatbot
+### Build-an-End-to-End-System---Evaluation
+![Chatbot Screenshot](assets/screenshot.png)
 
 An intelligent customer service assistant for an electronics store, built with OpenAI's GPT models and featuring a multi-step processing pipeline with content moderation and response evaluation.
 
